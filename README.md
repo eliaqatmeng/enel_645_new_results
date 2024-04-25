@@ -6,5 +6,5 @@ The repo contains all UPDATED models & dataset for the DEEP LEARNING FOR BRAIN T
 2. The ROC curves for trained and untrained models are saved.
 3. All results, including individuals model results are saved.
 4. Slices has the MRI images used for heatmaps.
-5. Ignore testing.
+5. Please ensure paths are correct before running models, since the original repo was corrupted, I had to create a new one.
 
