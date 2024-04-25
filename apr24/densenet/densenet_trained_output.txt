@@ -1,0 +1,74 @@
+cuda:0
+
+Best model updated. F1 score: 0.7033747779751333
+Epoch [1/15], F1 Score: 0.7034
+Epoch [1/15], Validation Loss: 0.5528, Validation Accuracy: 75.80%, Accuracy per Class: [0.80049261 0.6971831 ], Precision: 0.7097, Recall: 0.6972, F1 Score: 0.7034
+
+Best model updated. F1 score: 0.745318352059925
+Epoch [2/15], F1 Score: 0.7453
+Epoch [2/15], Validation Loss: 0.4688, Validation Accuracy: 80.29%, Accuracy per Class: [0.87438424 0.70070423], Precision: 0.7960, Recall: 0.7007, F1 Score: 0.7453
+
+Best model updated. F1 score: 0.7832422586520947
+Epoch [3/15], F1 Score: 0.7832
+Epoch [3/15], Validation Loss: 0.4205, Validation Accuracy: 82.75%, Accuracy per Class: [0.87684729 0.75704225], Precision: 0.8113, Recall: 0.7570, F1 Score: 0.7832
+
+Best model updated. F1 score: 0.8042328042328042
+Epoch [4/15], F1 Score: 0.8042
+Epoch [4/15], Validation Loss: 0.3912, Validation Accuracy: 83.91%, Accuracy per Class: [0.86453202 0.8028169 ], Precision: 0.8057, Recall: 0.8028, F1 Score: 0.8042
+
+Best model updated. F1 score: 0.8316151202749141
+Epoch [5/15], F1 Score: 0.8316
+Epoch [5/15], Validation Loss: 0.3726, Validation Accuracy: 85.80%, Accuracy per Class: [0.86206897 0.85211268], Precision: 0.8121, Recall: 0.8521, F1 Score: 0.8316
+Epoch [6/15], F1 Score: 0.8239
+Epoch [6/15], Validation Loss: 0.3502, Validation Accuracy: 85.51%, Accuracy per Class: [0.87684729 0.82394366], Precision: 0.8239, Recall: 0.8239, F1 Score: 0.8239
+
+Best model updated. F1 score: 0.8330464716006885
+Epoch [7/15], F1 Score: 0.8330
+Epoch [7/15], Validation Loss: 0.3386, Validation Accuracy: 85.94%, Accuracy per Class: [0.86453202 0.85211268], Precision: 0.8148, Recall: 0.8521, F1 Score: 0.8330
+
+Best model updated. F1 score: 0.8338983050847457
+Epoch [8/15], F1 Score: 0.8339
+Epoch [8/15], Validation Loss: 0.3286, Validation Accuracy: 85.80%, Accuracy per Class: [0.85221675 0.86619718], Precision: 0.8039, Recall: 0.8662, F1 Score: 0.8339
+
+Best model updated. F1 score: 0.847457627118644
+Epoch [9/15], F1 Score: 0.8475
+Epoch [9/15], Validation Loss: 0.3176, Validation Accuracy: 86.96%, Accuracy per Class: [0.86206897 0.88028169], Precision: 0.8170, Recall: 0.8803, F1 Score: 0.8475
+
+Best model updated. F1 score: 0.8484848484848485
+Epoch [10/15], F1 Score: 0.8485
+Epoch [10/15], Validation Loss: 0.3123, Validation Accuracy: 86.96%, Accuracy per Class: [0.85714286 0.88732394], Precision: 0.8129, Recall: 0.8873, F1 Score: 0.8485
+
+Best model updated. F1 score: 0.8514851485148515
+Epoch [11/15], F1 Score: 0.8515
+Epoch [11/15], Validation Loss: 0.3093, Validation Accuracy: 86.96%, Accuracy per Class: [0.84236453 0.9084507 ], Precision: 0.8012, Recall: 0.9085, F1 Score: 0.8515
+Epoch [12/15], F1 Score: 0.8508
+Epoch [12/15], Validation Loss: 0.2992, Validation Accuracy: 87.25%, Accuracy per Class: [0.86453202 0.88380282], Precision: 0.8203, Recall: 0.8838, F1 Score: 0.8508
+Epoch [13/15], F1 Score: 0.8462
+Epoch [13/15], Validation Loss: 0.2872, Validation Accuracy: 87.25%, Accuracy per Class: [0.88669951 0.85211268], Precision: 0.8403, Recall: 0.8521, F1 Score: 0.8462
+
+Best model updated. F1 score: 0.8633333333333334
+Epoch [14/15], F1 Score: 0.8633
+Epoch [14/15], Validation Loss: 0.2876, Validation Accuracy: 88.12%, Accuracy per Class: [0.85960591 0.91197183], Precision: 0.8196, Recall: 0.9120, F1 Score: 0.8633
+Epoch [15/15], F1 Score: 0.8619
+Epoch [15/15], Validation Loss: 0.2847, Validation Accuracy: 87.97%, Accuracy per Class: [0.85714286 0.91197183], Precision: 0.8170, Recall: 0.9120, F1 Score: 0.8619
+AUC: 0.9594
+
+Test Loss: 0.2870, Test Accuracy: 89.42%, Accuracy per Class: [0.90677966 0.88095238], Precision: 0.8997, Recall: 0.8810, F1 Score: 0.8902
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Cancer (1413)_gradcam_output.png
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Cancer (1609)_gradcam_output.png
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Cancer (2406)_gradcam_output.png
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Cancer (2425)_gradcam_output.png
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Not Cancer  (13)_gradcam_output.png
+
+Predicted Class Label: Brain Tumor
+Grad-CAM image saved as apr24/densenet/Not Cancer  (52)_gradcam_output.png
